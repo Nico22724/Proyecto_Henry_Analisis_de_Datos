@@ -29,7 +29,7 @@ sus servicios como tambien aprovechar oportunidades.
 2. [Descripcion](#Descripcion)
 3. [KPI Funcionamiento](#KPI)
 4. [Analisis de Datos](#Analisis)
-5. [Contribucion y Colaboracion](#Contribucion)
+5. [Contribución y Colaboración](#Contribucion)
 6. [Autores](#Autores)
 
 ## Analisis de Datos
