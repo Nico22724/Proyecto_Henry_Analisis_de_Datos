@@ -31,3 +31,36 @@ sus servicios como tambien aprovechar oportunidades.
 4. [Analisis de Datos](#Analisis de Datos)
 5. [Contribucion y Colaboracion](#Contribucion y Colaboracion)
 6. [Autores](#Autores)
+
+## Analisis de Datos
+![Accesos por cada 100 hogares](Imagenes/Trimestres_acceso_por_hab.png)
+Conclusiones del Análisis de los Gráficos de Accesos por Trimestre
+El conjunto de gráficos muestra la evolución del porcentaje de accesos por cada 100 habitantes, dividido por trimestres, desde el año 2014 hasta el 2023. Las conclusiones basadas en estos gráficos:
+
+**1. Tendencia General**
+En los cuatro trimestres, se observa una tendencia ascendente en el porcentaje de accesos por cada 100 habitantes a lo largo de los años. Esto indica un crecimiento continuo y sostenido en los accesos.
+**2. Comparación entre Trimestres**
+Todos los trimestres muestran una tendencia similar con un crecimiento constante desde 2014 hasta 2023.
+La pendiente de crecimiento parece ser bastante consistente entre los trimestres, lo que sugiere que no hay un trimestre en particular que sea significativamente diferente en términos de crecimiento de accesos.
+**3. Puntos de Crecimiento Notable**
+A partir de 2017, todos los trimestres muestran un aumento más pronunciado en el porcentaje de accesos.
+Entre 2020 y 2021, hay un notable incremento en el crecimiento, lo que puede estar asociado a factores como la pandemia de COVID-19, que pudo haber impulsado una mayor demanda de accesos debido a la necesidad de trabajar y estudiar desde casa.
+**4. Año 2023**
+El año 2023 muestra el valor más alto en cada trimestre, alcanzando alrededor del 0.24% de accesos por cada 100 habitantes.
+**5. Estacionalidad**
+No parece haber una estacionalidad marcada en los datos, ya que el crecimiento es relativamente uniforme entre los trimestres. Esto sugiere que los accesos han crecido de manera constante a lo largo de los años sin grandes fluctuaciones estacionales.
+En resumen, los gráficos muestran un crecimiento continuo y sostenido en el porcentaje de accesos por cada 100 habitantes en Capital Federal a lo largo de los años, con un incremento notable a partir de 2017 y valores máximos en 2023. La tendencia es similar en los cuatro trimestres, sin una estacionalidad significativa.
+
+![Acceso a la tecnología](Imagenes/acceso_tecnologia.png)
+**Conclusiones:**
+
+**Histograma:**
+
+La distribución de ADSL_LOG parece ser unimodal, con un pico claro alrededor del valor 11. Hay una asimetría hacia la derecha, con algunos valores altos pero mucho menos frecuentes.
+
+**Gráfico de violín:**
+Confirma la distribución observada en el histograma, con una alta densidad alrededor de 11. Muestra que hay variabilidad en los datos, con una mayor concentración de valores alrededor de la mediana.
+
+**Gráfico de dispersión:**
+La mediana de ADSL_LOG está cerca de 11. Hay varios valores atípicos (outliers) en el extremo superior, por encima de 13.
+En resumen, la variable ADSL_LOG tiene una distribución asimétrica con una alta concentración de valores alrededor del 11, pero también presenta algunos valores atípicos altos.
