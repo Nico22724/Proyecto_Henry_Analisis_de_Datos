@@ -33,6 +33,7 @@ sus servicios como tambien aprovechar oportunidades.
 6. [Autores](#Autores)
 
 ## Analisis de Datos
+**ACCESO POR CADA 100 INDIVIDUOS**
 ![Accesos por cada 100 hogares](Imagenes/Trimestres_acceso_por_hab.png)
 Conclusiones del Análisis de los Gráficos de Accesos por Trimestre
 El conjunto de gráficos muestra la evolución del porcentaje de accesos por cada 100 habitantes, dividido por trimestres, desde el año 2014 hasta el 2023. Las conclusiones basadas en estos gráficos:
@@ -51,6 +52,7 @@ El año 2023 muestra el valor más alto en cada trimestre, alcanzando alrededor 
 No parece haber una estacionalidad marcada en los datos, ya que el crecimiento es relativamente uniforme entre los trimestres. Esto sugiere que los accesos han crecido de manera constante a lo largo de los años sin grandes fluctuaciones estacionales.
 En resumen, los gráficos muestran un crecimiento continuo y sostenido en el porcentaje de accesos por cada 100 habitantes en Capital Federal a lo largo de los años, con un incremento notable a partir de 2017 y valores máximos en 2023. La tendencia es similar en los cuatro trimestres, sin una estacionalidad significativa.
 
+**ACCESO POR LA TECNOLOGIA DE CONEXION ADSL**
 ![Acceso a la tecnología](Imagenes/acceso_tecnologia.png)
 **Conclusiones:**
 
