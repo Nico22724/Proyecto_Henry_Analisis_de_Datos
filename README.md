@@ -32,6 +32,24 @@ sus servicios como tambien aprovechar oportunidades.
 5. [Contribución y Colaboración](#Contribucion)
 6. [Autores](#Autores)
 
+## KPI
+En el dashboard de Power Bi se realizaron dos KPI uno que fue el propuesto por el educador Henry 
+- *Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia*.
+- 
+La fórmula es la siguiente:
+ $`KPI = ((Nuevo acceso - Acceso actual) / Acceso actual) * 100`$
+ 
+Donde:
+
+- "Nuevos_accesos" se refiere al número de hogares con acceso a Internet después del próximo trimestre.
+- "Accesos_Totales_Porcentaje_2023" se refiere al número de hogares con acceso a Internet en el trimestre actual.
+
+El otro KPI del dashboard de Power bi se realizo:
+- *Aumentar en un 3.8% el acceso al servicio de internet para el proximo trimestre, cada 100 individuos, por provincia*.
+
+Donde:
+- "Nuevos_ingresos" se refiere al número de individuos con acceso a Internet después del próximo trimestre.
+- "Acceso_cada_100_hab_2023" se refiere al número de individuos con acceso a Internet en el trimestre actual.
 ## Analisis de Datos
 
 **ACCESO POR CADA 100 INDIVIDUOS**
