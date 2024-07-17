@@ -35,7 +35,7 @@ sus servicios como tambien aprovechar oportunidades.
 ## KPI
 En el dashboard de Power Bi se realizaron dos KPI uno que fue el propuesto por el educador Henry 
 - *Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia*.
-- 
+  
 La fórmula es la siguiente:
  $`KPI = ((Nuevo acceso - Acceso actual) / Acceso actual) * 100`$
  
