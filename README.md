@@ -28,11 +28,12 @@ sus servicios como tambien aprovechar oportunidades.
 1. [Introduccion](#Introduccion)
 2. [Descripcion](#Descripcion)
 3. [KPI Funcionamiento](#KPI Funcionamiento)
-4. [Analisis de Datos](#Analisis de Datos)
+4. [Analisis de Datos](#Analisis)
 5. [Contribucion y Colaboracion](#Contribucion y Colaboracion)
 6. [Autores](#Autores)
 
 ## Analisis de Datos
+
 **ACCESO POR CADA 100 INDIVIDUOS**
 ![Accesos por cada 100 hogares](Imagenes/Trimestres_acceso_por_hab.png)
 Conclusiones del Análisis de los Gráficos de Accesos por Trimestre
@@ -52,6 +53,7 @@ El año 2023 muestra el valor más alto en cada trimestre, alcanzando alrededor 
 No parece haber una estacionalidad marcada en los datos, ya que el crecimiento es relativamente uniforme entre los trimestres. Esto sugiere que los accesos han crecido de manera constante a lo largo de los años sin grandes fluctuaciones estacionales.
 En resumen, los gráficos muestran un crecimiento continuo y sostenido en el porcentaje de accesos por cada 100 habitantes en Capital Federal a lo largo de los años, con un incremento notable a partir de 2017 y valores máximos en 2023. La tendencia es similar en los cuatro trimestres, sin una estacionalidad significativa.
 
+
 **ACCESO POR LA TECNOLOGIA DE CONEXION ADSL**
 ![Acceso a la tecnología](Imagenes/acceso_tecnologia.png)
 **Conclusiones:**
@@ -66,3 +68,27 @@ Confirma la distribución observada en el histograma, con una alta densidad alre
 **Gráfico de dispersión:**
 La mediana de ADSL_LOG está cerca de 11. Hay varios valores atípicos (outliers) en el extremo superior, por encima de 13.
 En resumen, la variable ADSL_LOG tiene una distribución asimétrica con una alta concentración de valores alrededor del 11, pero también presenta algunos valores atípicos altos.
+
+**PORCENTAJE DE ACCESO POR CADA 100 HOGARES**
+![Boxplot](Imagenes/boxplot.png)
+El gráfico que se presenta es un diagrama de cajas (box plot) que muestra la distribución de los accesos por cada 100 hogares en varias provincias argentinas.Las conclusiones son:
+
+**Variabilidad de Accesos:**
+
+Las provincias presentan una gran variabilidad en cuanto a los accesos por cada 100 hogares. Algunas provincias tienen una dispersión más amplia (e.g., Buenos Aires, Córdoba, Santa Fe), mientras que otras tienen una dispersión más estrecha (e.g., La Rioja, Mendoza).
+
+**Medianas y Rangos Intercuartílicos:**
+
+Provincias como Buenos Aires y Córdoba tienen medianas más altas, indicando un mayor número de accesos por cada 100 hogares. Provincias como Formosa y Santiago del Estero tienen medianas más bajas, indicando un menor número de accesos.
+
+**Valores Atípicos:**
+
+Se observan algunos valores atípicos, como en las provincias de Formosa y San Luis, que indican valores de acceso significativamente diferentes del resto de los datos.
+
+**Comparaciones Entre Provincias:**
+
+Buenos Aires y Córdoba parecen tener los mayores niveles de accesos por cada 100 hogares. Provincias como La Pampa y Tucumán tienen medianas similares, pero diferentes niveles de variabilidad.
+
+**Rangos de Accesos:**
+
+La mayoría de las provincias tienen rangos de accesos que varían considerablemente, lo que sugiere diferencias significativas en la conectividad dentro de las mismas provincias. En resumen, el gráfico muestra una diversidad considerable en los accesos por cada 100 hogares entre las diferentes provincias argentinas, con algunas provincias destacándose por tener una mayor conectividad y otras con menos accesos. La variabilidad dentro de las provincias también es notable, lo que indica disparidades internas en el acceso a servicios.
