@@ -27,9 +27,9 @@ sus servicios como tambien aprovechar oportunidades.
 ## Tabla de contenido 
 1. [Introduccion](#Introduccion)
 2. [Descripcion](#Descripcion)
-3. [KPI Funcionamiento](#KPI Funcionamiento)
+3. [KPI Funcionamiento](#KPI)
 4. [Analisis de Datos](#Analisis)
-5. [Contribucion y Colaboracion](#Contribucion y Colaboracion)
+5. [Contribucion y Colaboracion](#Contribucion)
 6. [Autores](#Autores)
 
 ## Analisis de Datos
@@ -92,3 +92,9 @@ Buenos Aires y Córdoba parecen tener los mayores niveles de accesos por cada 10
 **Rangos de Accesos:**
 
 La mayoría de las provincias tienen rangos de accesos que varían considerablemente, lo que sugiere diferencias significativas en la conectividad dentro de las mismas provincias. En resumen, el gráfico muestra una diversidad considerable en los accesos por cada 100 hogares entre las diferentes provincias argentinas, con algunas provincias destacándose por tener una mayor conectividad y otras con menos accesos. La variabilidad dentro de las provincias también es notable, lo que indica disparidades internas en el acceso a servicios.
+
+## Contribución y Colaboración
+Los contribuidores son bienvenidos a reportar problemas, enviar solicitudes de funciones o enviar pull requests en el repositorio de GitHub.
+
+## Autores:
+Este proyecto fue realizado por: Nicolas Hoyos .
